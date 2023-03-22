@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>Walmart Sales Business Requests</h2>
+      <h2>Amazon  Sales Business Requests</h2>
 
       <table>
         <tr>
@@ -75,7 +75,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/walmart-sales-data-analysis-react-app/blob/main/src/Visual%20Report/Walmart%20Sales%20Analysis.jpg"
+              href="https://github.com/JohnKimaiyo/Amazon-Data-Analys-React-App/blob/main/src/Publshed%20Report/Amazon%20Published%20Sales%20%20Summary.jpg"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -89,7 +89,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://docs.google.com/spreadsheets/d/1MKxM4zOPpnTVzHr1fEPb6r34Af3maUZgmDuAUo7GVCo/edit#gid=0"
+              href="https://docs.google.com/spreadsheets/d/1NUMDmKWTlq3EncH-UNsKGHsMRyRDDuurPC5hVhrZT3o/edit#gid=0"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -103,7 +103,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/walmart-sales-data-analysis-react-app/blob/main/src/Visual%20Report/Walamart%20Sales%20Analysis.pdf"
+              href="https://github.com/JohnKimaiyo/Amazon-Data-Analys-React-App/blob/main/src/Publshed%20Report/Amazon%20Published%20Sales%20%20Report.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -116,7 +116,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/walmart-sales-data-analysis-react-app/blob/main/src/SQL%20Scripts/walmart.sql"
+              href="https://github.com/JohnKimaiyo/Amazon-Data-Analys-React-App/blob/main/src/SQL%20Queries/activedataset.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -125,11 +125,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td>Walmart Source Files </td>
-          <td>Walmart Kaggle Dataset</td>
+          <td>Amazon Source Files </td>
+          <td>Amazon Kaggle Dataset</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/walmart-sales-data-analysis-react-app/tree/main/src/Visual%20Report"
+              href="https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -138,11 +138,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td>Walmart JSON Files </td>
-          <td>Walmart JSON Dataset</td>
+          <td>Amazon JSON Files </td>
+          <td>Amazon JSON Dataset</td>
           <td>
             <a
-              href="https://raw.githubusercontent.com/JohnKimaiyo/walmart-sales-data-analysis-react-app/main/src/Search%20App/wamart.json"
+              href="https://raw.githubusercontent.com/JohnKimaiyo/Amazon-Data-Analys-React-App/main/src/JSON%20Files/amazon.json"
               target="_blank"
               rel="noopener noreferrer"
             >
