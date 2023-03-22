@@ -70,7 +70,7 @@ export default function Header() {
           <th>URL Links</th>
         </tr>
         <tr>
-          <td>JPEG Visualised Data</td>
+          <td>JPEG  Dashboard Data</td>
           <td>Image file containing the Sales Visualised Data</td>
 
           <td>
@@ -84,7 +84,7 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td>Googlesheet Visualised Data</td>
+          <td>Googlesheet Dashboard Data</td>
           <td>Image containing the Sales Visualised Data in Googlesheet</td>
 
           <td>
@@ -98,7 +98,7 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td>PDF Visualised Data</td>
+          <td>PDF Dashboard Data</td>
           <td>PDF file containing the Sales Visualised Data</td>
 
           <td>
