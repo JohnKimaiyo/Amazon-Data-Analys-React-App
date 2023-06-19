@@ -62,7 +62,7 @@ export default function Header() {
         </tr>
       </table>
 
-      <h2>View the Visuals in this  Section</h2>
+      <h2>View the Dashboard in this  Section</h2>
       <table>
         <tr>
           <th>Page Routes </th>
