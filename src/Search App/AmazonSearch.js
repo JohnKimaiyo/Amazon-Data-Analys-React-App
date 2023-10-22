@@ -10,6 +10,18 @@ function AmazonSearch() {
     const [amazondata, setAmazondata] = useState(data);
     const [search, setSearch] = useState('');
 
+    function filterBy(data, filters = {}) {
+        // Set up the specific defaults that will show everything:
+        const defaults = {
+          AboutProduct: null,
+          ProductSpecification: ,
+          TechnicalDetails: ,
+    
+        }
+      
+       
+        };
+      }
 
     return (
         <div>
