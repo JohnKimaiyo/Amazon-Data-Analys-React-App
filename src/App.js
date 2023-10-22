@@ -1,10 +1,11 @@
 
 import './App.css';
-import Header from './Header/Header';
+
+import AmazonSearch  from "./Search App/AmazonSearch"
 function App() {
   return (
     <div className="App">
-     <Header/>
+    <AmazonSearch/>
     </div>
   );
 }
