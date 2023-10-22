@@ -1,4 +1,11 @@
+My Portfolio website 
+
+https://johnkimaiyo.vercel.app/
+
+
 Business Demand
+
+
 
 1 Sales Manager To get a dashboard overview of Sales Can follow better which customers and products sells the best A Power BI dashboard which updates data once a day
 
