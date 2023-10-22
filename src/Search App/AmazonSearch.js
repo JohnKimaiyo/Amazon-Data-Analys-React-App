@@ -14,24 +14,32 @@ function AmazonSearch() {
   return (
     <div>
       <Container>
-        <h1 className='text-center mt-4'>Contact Keeper</h1>
+        <h1 className='text-center mt-4'>Amazon Sales Data</h1>
         <Form>
           <InputGroup className='my-3'>
 
             {/* onChange for search */}
             <Form.Control
               onChange={(e) => setSearch(e.target.value)}
-              placeholder='Search contacts'
+              placeholder='Search for sales data'
             />
           </InputGroup>
         </Form>
         <Table striped bordered hover>
           <thead>
             <tr>
-              <th>First Name</th>
-              <th>Last Name</th>
-              <th>Email</th>
-              <th>Phone</th>
+              <th>Unique Id</th>
+              <th>Product Name</th>
+              <th>Category</th>
+              <th>Selling Price</th>
+              <th>About Product</th>
+              <th>Product Specification</th>
+              <th>Shipping Weight</th>
+              <th>Image</th>
+              <th>Variants</th>
+              <th>Product url</th>
+              <th>Is it Amazon Seller</th>
+
             </tr>
           </thead>
           <tbody>
