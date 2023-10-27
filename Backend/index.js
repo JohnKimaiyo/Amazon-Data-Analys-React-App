@@ -19,4 +19,11 @@ app.get("/", (req, res) => {
   q ? res.json(search(Users).slice(0, 10)) : res.json(Users.slice(0, 10));
 });
 
+const connectDatabase = () =>{
+  connect("localhost:5000",{
+     
+}).then(con=>{
+  console.log(`MongoDB Database connected with HOST: ${con.connection.host}`)
+})
+}
 app.listen(5000, () => console.log("API is working!"));  
